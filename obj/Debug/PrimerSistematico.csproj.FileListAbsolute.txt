@@ -1,0 +1,7 @@
+C:\Users\melany Tellez\OneDrive\Escritorio\PrimerSistematico\obj\Debug\PrimerSistematico.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\PrimerSistematico\obj\Debug\PrimerSistematico.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\PrimerSistematico\bin\Debug\PrimerSistematico.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\PrimerSistematico\bin\Debug\PrimerSistematico.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\PrimerSistematico\bin\Debug\PrimerSistematico.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\PrimerSistematico\obj\Debug\PrimerSistematico.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\PrimerSistematico\obj\Debug\PrimerSistematico.pdb
